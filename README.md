@@ -1,6 +1,6 @@
 Trabalho Phyton
 
-Professor: AldAlberto
+Professor: Adalberto
 
 Equipe:
 Wesley
